@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <skills>Software testing theory</skills>
+  <skills>Bug reports</skills>
+  <skills>Client-server architecture</skills>
+  <skills>HTTP-methods</skills>
+  <skills>JSON</skills>
+  <skills>XML</skills>
+  <skills>Postman</skills>
+  <skills>Charles</skills>
+  <skills>Fiddler</skills>
+  <skills>DevTools</skills>
+  <skills>VPN</skills>
+  <skills>Mobile testing</skills>
+  <skills>Xcode</skills>
+  <skills>Android Studio</skills>
+  <skills>Linux terminal</skills>
+  <skills>GIT</skills>
+  <skills>SQL</skills>
+  <skills>Jmeter</skills>
+  <skills>Python</skills>
+</root>
