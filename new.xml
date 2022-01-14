@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <person>
+    <name>Svetlana</name>
+    <surname>Chenchikova</surname>
+    <age>35</age>
+  </person>
+  <pets>
+    <pet_type>cat</pet_type>
+    <pet_name>Charlie</pet_name>
+    <pet_age>11</pet_age>
+  </pets>
+  <job>
+    <profession>QA Engineer</profession>
+    <salary>1000</salary>
+  </job>
+</root>
