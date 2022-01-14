@@ -1,1 +1,14 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<bug_report>
+  <id>367</id>
+  <date>2022-01-14T10:57:00</date>
+  <description>
+    <STR>1.Log in under UserA. 2. Select the user info tab. 3. Edit user name. 4. Click Save button 5. Navigate to the Undo button</STR>
+    <ACT>The Undo button is disabled after clicking the Save button</ACT>
+    <EXP>The Undo button is activated after clicking the Save button</EXP>
+  </description>
+  <assignee>Elon Musk</assignee>
+  <reporter>Svetlana Chenchikova</reporter>
+  <severity>minor</severity>
+  <priority>medium</priority>
+</bug_report>
